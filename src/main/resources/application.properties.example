@@ -1,0 +1,8 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/healthdb
+spring.datasource.username=root
+spring.datasource.password=YOUR_PASSWORD_HERE
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+server.port=8080
+spring.application.name=patient-health-api
+spring.jpa.open-in-view=false
